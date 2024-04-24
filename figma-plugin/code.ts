@@ -1,0 +1,3 @@
+figma.on('run', async ({ parameters }: RunEvent) => {
+  // Plugin code here...
+});

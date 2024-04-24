@@ -1,7 +1,7 @@
 {
-  "name": "ai-assistant",
+  "name": "ai-color-generator",
   "version": "1.0.0",
-  "description": "Your Figma Plugin",
+  "description": "Generate a color palette based on a description",
   "main": "code.js",
   "scripts": {
     "build": "tsc -p tsconfig.json",

@@ -6,13 +6,15 @@
   "capabilities": [],
   "enableProposedApi": false,
   "documentAccess": "dynamic-page",
-  "editorType": [
-    "figma",
-    "figjam"
+  "parameters": [
+    {
+      "name": "Colors Description",
+      "key": "colorsDescription",
+      "allowFreeform": true
+    }
   ],
+  "editorType": ["figma", "figjam"],
   "networkAccess": {
-    "allowedDomains": [
-      "none"
-    ]
+    "allowedDomains": ["none"]
   }
 }
