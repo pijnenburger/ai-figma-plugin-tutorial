@@ -6,6 +6,13 @@
   "capabilities": [],
   "enableProposedApi": false,
   "documentAccess": "dynamic-page",
+  "parameters": [
+    {
+      "name": "What do you want to describe?",
+      "key": "colorsDescription",
+      "allowFreeform": true
+    }
+  ],
   "editorType": ["figma", "figjam"],
   "networkAccess": {
     "allowedDomains": ["none"],
